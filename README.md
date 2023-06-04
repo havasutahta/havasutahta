@@ -23,4 +23,8 @@
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=havasutahta&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="havasutahta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=havasutahta&show_icons=true&theme=github_dark&locale=en" alt="havasutahta" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=havasutahta&show_icons=true&theme=github_dark#gh-dark-mode-only&locale=en" alt="havasutahta" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=havasutahta&show_icons=true&theme=github_dark#gh-light-mode-only&locale=en" alt="havasutahta" /></p>
+![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=havasutahta&show_icons=true&theme=github-dark#gh-light-mode-only)(https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=havasutahta&show_icons=true&theme=github-dark#gh-dark-mode-only)(https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
