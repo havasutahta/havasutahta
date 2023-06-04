@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm havasutahta</h1>
-
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/havasutahta/havasutahta?color=green">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=havasutahta&label=Profile%20views&color=0e75b6&style=flat" alt="havasutahta" /> 
 
 </p>
