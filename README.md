@@ -59,6 +59,4 @@ Here are some ideas to get you started:
 
 ![snake gif](https://github.com/havasutahta/havasutahta/blob/output/github-contribution-grid-snake.gif)
 
-<script>
-document.write("hello world");
-</script>
+<p>hello world</p>
