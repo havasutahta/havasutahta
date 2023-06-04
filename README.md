@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm havasutahta</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=havasutahta&label=Profile%20views&color=0e75b6&style=flat" alt="havasutahta" /> 
 ![GitHub language count](https://img.shields.io/github/languages/count/havasutahta/havasutahta?color=green)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=havasutahta&label=Profile%20views&color=0e75b6&style=flat" alt="havasutahta" /> 
+
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=havasutahta&label=Profile%20views&color=0e75b6&style=flat" alt="havasutahta" /> </p>
 
