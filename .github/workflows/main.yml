@@ -1,0 +1,29 @@
+name: .NET Code Metrics
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Reason for manual run'
+        required: true
+        default: 'No reason'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: 'Print manual run reason'
+      if: ${{ github.event_name == 'workflow_dispatch' }}
+      run: |
+        echo 'Reason: ${{ github.event.inputs.reason }}'
+    - name: .NET code metrics
+      id: dotnet-code-metrics
+      uses: dotnet/samples/github-actions/DotNet.GitHubAction@main
+      env:
+        GREETINGS: 'Hello, .NET developers ...'
